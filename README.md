@@ -1,2 +1,1 @@
-# Microserver-Applications
-Personal projects on my home server
+# Personal Projects
