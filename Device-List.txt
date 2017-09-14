@@ -1,4 +1,0 @@
-Device							Owned	Set Up?		State		IP				Hostname	CPU/Cores						RAM		Storage
-Sky Router						No		Yes			Physical	192.168.0.1		N/A			N/A								N/A		N/A
-HP Gen 8 ProLiant Microserver	Yes		Partial		Physical	192.168.0.100	CAESAR		Intel Celeron G1610T / 2 Cores	8GB		16TB
-Remote Desktop 1				TBC		No			Physical	TBD				TBD			1								512MB	50GB
